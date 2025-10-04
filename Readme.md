@@ -21,10 +21,14 @@ UI/UX Design, Open Source Contributions, Problem Solving
 ## GitHub Stats (2025)
 ![Eshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eshwaroffl&show_icons=true&theme=radical&count_private=true&hide=prs&include_all_commits=true&show=contribs=true&locale=en)
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshwaroffl)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/EshwarOffl)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=ko-fi&logoColor=white)](https://eshwarofficial-webpage.web.app)
+## 🌐 Let's Connect
+
+I'm always open to collaborating, networking, or just saying hi! Feel free to reach out:
+
+[![LinkedIn 🔗](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshwaroffl)
+[![Twitter 🔗](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/EshwarOffl) 
+[![Portfolio 🌐](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=ko-fi&logoColor=white)](https://eshwarofficial-webpage.web.app) 
+[![Gmail ✉️](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eshwaroff15@gmail.com)
 
 ---
 
