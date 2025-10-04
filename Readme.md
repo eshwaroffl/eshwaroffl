@@ -20,7 +20,6 @@ UI/UX Design, Open Source Contributions, Problem Solving
 
 ## 📅 GitHub Contributions (2025)
 
-![Eshwar's GitHub Contributions](https://ghchart.rshah.org/eshwaroffl)
 ![Eshwar's Streak 🔥](https://streak-stats.demolab.com?user=eshwaroffl&theme=radical&locale=en&date_format=M%20j%5B%2C%20Y%5D)
 
 ## 🌐 Let's Connect
