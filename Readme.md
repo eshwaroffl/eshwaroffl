@@ -18,8 +18,10 @@ Git, GitHub, VS Code, Adobe Express
 **Other Interests:**  
 UI/UX Design, Open Source Contributions, Problem Solving  
 
-## GitHub Stats (2025)
-![Eshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eshwaroffl&show_icons=true&theme=radical&count_private=true&hide=prs&include_all_commits=true&show=contribs=true&locale=en)
+## 📊 GitHub Stats (2025)
+
+![Eshwar's GitHub Stats 👾](https://github-readme-stats.vercel.app/api?username=eshwaroffl&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show=contribs=true&hide_title=false&hide_rank=false&locale=en&year=2025) 
+![Eshwar's Streak 🔥](https://streak-stats.demolab.com?user=eshwaroffl&theme=radical&locale=en&date_format=M%20j%5B%2C%20Y%5D)
 
 ## 🌐 Let's Connect
 
