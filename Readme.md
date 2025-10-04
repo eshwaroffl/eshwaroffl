@@ -1,7 +1,7 @@
 # Hi there, I'm Eshwar 👋
 
 ## About Me
-I'm a Computer Science & Engineering student and a Full-Stack Developer passionate about building scalable and interactive web applications. I love learning new technologies and improving my coding skills every day.
+I'm a Computer Science & Engineering student and learning Full-Stack Developement, passionate about building scalable and interactive web applications. I love learning new technologies and improving my coding skills every day.
 
 - 🌱 I’m currently learning **Full-Stack Development 🚀**
 - 💻 I enjoy working with **MERN Stack**
@@ -10,7 +10,7 @@ I'm a Computer Science & Engineering student and a Full-Stack Developer passiona
 ## Skills
 
 **Languages & Frameworks:**  
-JavaScript, TypeScript, HTML, CSS, React, Node.js, Express, MongoDB  
+On a journey to master JavaScript, TypeScript, HTML, CSS, React, React Native, Node.js, Express, MongoDB
 
 **Tools & Platforms:**  
 Git, GitHub, VS Code, Adobe Express
@@ -18,8 +18,8 @@ Git, GitHub, VS Code, Adobe Express
 **Other Interests:**  
 UI/UX Design, Open Source Contributions, Problem Solving  
 
-## GitHub Stats
-![Eshwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshwaroffl&show_icons=true&theme=radical)
+## GitHub Stats (2025)
+![Eshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eshwaroffl&show_icons=true&theme=radical&count_private=true&hide=prs&include_all_commits=true&show=contribs=true&locale=en)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshwaroffl)  
