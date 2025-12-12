@@ -28,7 +28,7 @@ I'm always open to collaborating, networking, or just saying hi! Feel free to re
 
 [![LinkedIn 🔗](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshwaroffl)
 [![Twitter 🔗](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/EshwarOffl) 
-[![Portfolio 🌐](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=ko-fi&logoColor=white)](https://eshwarofficial-webpage.web.app) 
+[![Portfolio 🌐](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=ko-fi&logoColor=white)](https://eshwaroffl.vercel.app) 
 [![Gmail ✉️](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eshwaroff15@gmail.com)
 
 ---
