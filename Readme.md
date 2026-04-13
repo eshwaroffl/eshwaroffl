@@ -31,6 +31,5 @@ I'm always open to collaborating, networking, or just saying hi! Feel free to re
 [![Portfolio 🌐](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=ko-fi&logoColor=white)](https://eshwaroffl.vercel.app) 
 [![Gmail ✉️](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eshwaroff15@gmail.com)
 
----
 
 ⭐ If you like my work, give me a star!
