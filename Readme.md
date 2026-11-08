@@ -7,17 +7,6 @@ I'm a Computer Science & Engineering student and learning Full-Stack Developemen
 - 💻 I enjoy working with **MERN Stack**
 - ⚡ Fun fact: I love exploring creative ways to solve coding challenges
 
-## Skills
-
-**Languages & Frameworks:**  
-On a journey to master JavaScript, TypeScript, HTML, CSS, React, React Native, Node.js, Express, MongoDB
-
-**Tools & Platforms:**  
-Git, GitHub, VS Code, Adobe Express
-
-**Other Interests:**  
-UI/UX Design, Open Source Contributions, Problem Solving  
-
 ## 📅 GitHub Contributions (From 2024 to Present)
 
 ![Eshwar's Streak 🔥](https://streak-stats.demolab.com?user=eshwaroffl&theme=radical&locale=en&date_format=M%20j%5B%2C%20Y%5D)
