@@ -1,11 +1,7 @@
 # Hi there, I'm Eshwar 👋
 
 ## About Me
-I'm a Computer Science & Engineering student and learning Full-Stack Developement, passionate about building scalable and interactive web applications. I love learning new technologies and improving my coding skills every day.
-
-- 🌱 I’m currently learning **Full-Stack Development 🚀**
-- 💻 I enjoy working with **MERN Stack**
-- ⚡ Fun fact: I love exploring creative ways to solve coding challenges
+I'm a Computer Science & Engineering student and learning Full-Stack Developement, passionate about building scalable and interactive web applications. I love learning new technologies and improving my coding skills every day
 
 ## 📅 GitHub Contributions (From 2024 to Present)
 
