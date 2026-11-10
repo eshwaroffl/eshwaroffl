@@ -5,7 +5,7 @@ I'm a Computer Science & Engineering student and learning Full-Stack Developemen
 
 ## 📅 GitHub Contributions (From 2024 to Present)
 
-[![Eshwar's Streak 🔥](https://streak-stats.demolab.com?user=eshwaroffl&theme=whatsapp-dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Eshwar's Streak 🔥](https://streak-stats.demolab.com?user=eshwaroffl&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://streak-stats.demolab.com?user=eshwaroffl&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)
 
 ## 🌐 Let's Connect
 
